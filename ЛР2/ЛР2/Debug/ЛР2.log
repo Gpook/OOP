@@ -1,0 +1,4 @@
+﻿  ЛР2.cpp
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\OOP-master\OOP-master\oop_labsBRUY\ЛР2\ЛР2\ЛР2.cpp(263): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\OOP-master\OOP-master\oop_labsBRUY\ЛР2\ЛР2\ЛР2.cpp(91): warning C4715: 'btree::deleting': not all control paths return a value
+  ЛР2.vcxproj -> C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\OOP-master\OOP-master\oop_labsBRUY\ЛР2\Debug\ЛР2.exe
