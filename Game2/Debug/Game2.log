@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\LifeBar.h(31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(109): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(111): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(138): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(139): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(193): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(194): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(198): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(199): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(233): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(260): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(261): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(262): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(263): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(274): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(302): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(310): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(336): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(346): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(346): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(359): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(382): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\main.cpp(234): warning C4101: 'score': unreferenced local variable
+  Game2.vcxproj -> C:\Users\Anton  Hushcha\Desktop\Учёба\ООП-БольХ2\Game2\Debug\Game2.exe
